@@ -1,0 +1,43 @@
+# Hardware and Software Requirements
+
+Hardware Requirements
+• Processor: Intel Core i3 or higher (Recommended: Intel Core i5 or above)
+• RAM: Minimum 4 GB (Recommended: 8 GB or more for smoother operation)
+• Storage: Minimum 10 GB of available SSD/HDD space (SSD preferred for faster performance)
+• Webcam: Required (for consumer-side product scanning and real-time verification)
+• Internet: Stable and fast internet connection (essential for accessing the blockchain and
+    QR code scanning functionalities)
+
+
+Software Requirements
+• Operating System: Windows 10 or higher / macOS / Linux (Any OS supporting required
+tools)
+• Development Environment:
+    – Blockchain Framework:
+        ∗ Ethereum (for smart contracts and decentralized application development)
+        ∗ Ganache: For creating a personal Ethereum blockchain for testing purposes
+        ∗ Hardhat: Development environment to compile, deploy, test, and debug Ethereum
+            smart contracts
+        ∗ MetaMask: Browser extension for managing Ethereum wallets and interacting
+            with the blockchain
+    – Programming Languages:∗ Solidity: For writing smart contracts on the Ethereum blockchain
+        ∗ JavaScript: Used for front-end and backend development
+        ∗ HTML, CSS: For creating the user interface and designing the web pages
+        ∗ React: Frontend library for building the user interface and handling dynamic
+            interactions
+        ∗ Node.js: Backend JavaScript runtime for running the server and interacting with
+            the blockchain
+    – Database:
+        ∗ Firebase: Used for real-time data storage and synchronization for user and product data
+    – QR Code Generation & Scanning:
+        ∗ QRCode.js (JavaScript library) for generating QR codes on the front end
+        ∗ Mobile App or Web Interface for scanning QR codes
+    – Version Control:
+        ∗ Git: For version control and project collaboration
+        ∗ GitHub: For storing and sharing the project’s code repository
+    – Web Server:
+        ∗ Express.js: Framework for handling web server-side logic in Node.js
+    – Other Tools:
+        ∗ Visual Studio Code (VSCode): IDE for writing and editing code
+        ∗ Postman: For testing APIs and smart contract interaction
+        ∗ Docker (Optional): For containerizing the application (if needed for deployment)

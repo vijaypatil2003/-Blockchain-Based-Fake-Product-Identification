@@ -1,0 +1,51 @@
+# METHODOLOGY
+
+1 Problem Formulation
+The primary goal of this project is to develop a secure and transparent system that helps consumers and manufacturers identify counterfeit products in the market using blockchain technology. The problem formulation involves creating a system where product details are securely
+recorded and stored in a decentralized blockchain ledger, ensuring that their authenticity can
+be verified easily by consumers.
+The core challenge is designing a blockchain-based system that provides both security and
+user-friendliness. Blockchain provides security, but integrating it with existing systems and
+ensuring a smooth user experience can be complex.
+
+
+2 Data Collection
+The data collection process includes gathering product-related information and ensuring its
+integration with the blockchain. The following data points are collected:
+• Product Information: This includes manufacture ID, product serial number, product
+name, brand, and price.
+• QR Code Generation: Once the product data is entered, a QR code is generated containing a link to the blockchain.
+• Blockchain Transaction Data: Each product entry is recorded as a blockchain transaction,
+ensuring an immutable record of its authenticity.
+• User Interaction Data: Data from consumers interacting with the system to verify the
+product will be logged for transparency
+
+
+3 Model Architecture
+The system architecture includes the following components:
+• Frontend: A web-based interface for consumers to scan QR codes and verify product
+authenticity • Blockchain Layer: Ethereum smart contracts store product details in an immutable
+ledger.
+• Backend: Manages requests from the frontend and interacts with the blockchain to retrieve and verify product information.
+• QR Code Generation: A unique QR code is generated for each product, containing a
+link to the blockchain for verification.
+
+4 Evaluation
+The system will be evaluated based on:
+• Functionality: Correct product details should be retrieved on scanning the QR code.
+• Security: The blockchain should prevent tampering, and unauthorized changes should be
+impossible.
+• Usability: The system should be easy for consumers to use and navigate.
+• Performance: The system should be fast and responsive during verification.
+• Scalability: The system should be able to handle increasing numbers of products and
+users
+
+
+6 Integration
+The system is integrated as follows:
+• Frontend and Blockchain Integration: The web interface communicates with the Ethereum
+blockchain via REST APIs to retrieve product information.
+• Backend and Blockchain Integration: The backend interacts with the Ethereum blockchain
+through Web3.js to fetch product details.
+• QR Code and Blockchain Integration: The QR code generated links to the blockchain
+to verify product authenticity.

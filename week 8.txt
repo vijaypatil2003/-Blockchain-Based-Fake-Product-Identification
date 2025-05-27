@@ -1,0 +1,60 @@
+# IMPLEMENTATION DETAILS
+
+1. Add Product Page
+The Add Product webpage serves as a crucial interface for manufacturers to enter product
+details into the blockchain system. This interface is designed to be intuitive and accessible,
+allowing authenticated manufacturers to securely register their products.
+The page contains a clearly visible heading titled “Add Product” at the top, which indicates
+the purpose of the page. Below this heading, the user is presented with a structured form
+consisting of several input fields:
+• Manufacturer ID: A unique identifier assigned to the manufacturer, ensuring traceability
+and authenticity of the product source.
+• Product SN (Serial Number): A unique code representing the product. This will be used
+later for verification by customers.
+• Product Price: The price of the product entered in numeric format, providing economic
+details for tracking.
+• Product Name: The name of the product, allowing easy identification.
+• Product Brand: The brand or company name under which the product is sold      
+
+2. 8 QR Code Generation
+The QR Code Generation feature is a vital component of the Blockchain-Based Fake Product
+Identification System. It acts as a secure bridge between a physical product and its digital
+identity on the blockchain, enabling consumers to verify product authenticity through a simple
+scan.
+When a manufacturer submits product details on the Add Product page, the backend
+system performs data validation and records the information on the blockchain using smart
+contracts. Once the data is successfully registered, the system triggers the QR code generation
+module, which creates a unique QR code based on the Product Serial Number (Product SN).
+In some cases, additional encrypted metadata may also be embedded in the QR code to improve
+traceability and ensure more robust verification
+
+
+3.  Sell Product to Consumer Page
+The Sell Product to Consumer page is a key interface designed for sellers to transfer product ownership to end consumers and ensure traceability within the blockchain network. This
+function is vital for maintaining the integrity of the product supply chain and preventing the
+circulation of counterfeit goods.
+User Interface Overview
+The webpage is presented with a clean and user-friendly design. At the top, a bold heading
+titled FAKE PRODUCT IDENTIFICATION THROUGH BLOCKCHAIN is displayed, along
+with a navigation bar that includes the following tab
+
+
+4.  Consumer Product History Page
+The Consumer Product History page is designed to allow users to retrieve and view the
+purchase history of a product using their unique Consumer Code. This feature ensures transparency and provides assurance regarding product authenticity and its ownership trai assigned consumer identification code. This field is followed by a prominent yellow button labeled “Get Product”. When clicked, the system fetches and displays product history associated
+with the entered consumer code.
+Below the input section, the webpage displays the heading “Product Purchased by Consumer”, followed by a structured table that presents the relevant product information in a clear
+and concise format. The table consists of the following columns:
+• Product SN: The unique serial number of the product purchased.
+• Seller Code: The identification code of the seller from whom the product was purchased.
+• Manufacturer Code: The unique identifier of the manufacturer who originally registered
+the product.
+This page helps build trust by enabling consumers to confirm their product’s legitimacy and
+trace its journey through the supply chain, from the manufacturer to the final point of sale.
+
+
+
+5. Verify Product Page
+The Verify Product page is a crucial component of the system, allowing consumers to verify the
+authenticity of a product before or after purchase. The interface is user-friendly and designed
+to accommodate both scanning and manual input options.
