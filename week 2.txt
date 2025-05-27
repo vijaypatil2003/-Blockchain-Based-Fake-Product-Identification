@@ -1,0 +1,52 @@
+# Problem Statement
+
+Counterfeit products are a major concern in today’s global market. These products are manufactured and sold with the intent to deceive customers into believing they are purchasing
+original branded goods. The problem is made worse by the fact that many counterfeit items
+are nearly identical in appearance to the real ones, making it very difficult for consumers to
+identify them. This leads to serious risks, such as health hazards, financial losses, and damage
+to brand reputation. The core issue lies in the lack of a secure and transparent system for verifying product authenticity. Current methods are either too complex, unreliable, or not easily
+accessible to the general public. Therefore, there is a need for an effective, user-friendly solution that can help users verify the originality of a product before purchase. Our project aims
+to address this issue by creating a blockchain-based system that ensures product authenticity
+through secure data recording and QR code scanning.
+
+
+
+# Objectives of the Work
+
+The main objective of this project is to develop a reliable and secure system for fake product identification using blockchain technology. The goal is to help customers, retailers, and
+manufacturers easily verify the authenticity of a product and reduce the spread of counterfeit
+goods.
+
+Here are the detailed objectives:
+
+1. To study the current problems related to fake products: Understand how counterfeit
+goods affect customers and businesses, and why existing methods of product verification
+are not enough.
+
+2. To explore blockchain technology and its features: Learn how blockchain can be used to
+store product data in a way that is secure, transparent, and unchangeable.
+
+3. To design a product tracking system using blockchain: Create a system that can store
+the details of each product as it moves from manufacturer to consumer.
+
+4. To integrate QR code scanning for user access: Generate a unique QR code for each
+product that users can scan to get the product’s details and check its authenticity.
+
+5. To develop a user-friendly web interface: Build a simple platform where customers,
+sellers, and manufacturers can interact with the system to add, verify, or track products.
+
+6. To create awareness about product authenticity: Encourage the use of this system to
+help build trust among consumers and reduce the impact of counterfeit goods in the
+market.
+
+7. To address the rise in counterfeit goods: This project is motivated by the increasing
+prevalence of fake products, which harm consumers and legitimate businesses. Developing
+an effective anti-counterfeit system aims to curb this growing problem.
+
+8. To develop a comprehensive anti-counterfeit system: The goal is to create a robust
+solution that not only detects fake products but also prevents their circulation by ensuring
+product data integrity and traceability throughout the supply chain.
+
+9. To use QR codes as a security measure: By embedding unique QR codes in each product,
+the system safeguards product information and enables easy, reliable access to authenticity
+data for consumers.

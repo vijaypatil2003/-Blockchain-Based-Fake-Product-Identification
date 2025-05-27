@@ -1,0 +1,75 @@
+# Literature Survey :
+
+The problem of counterfeit products in the supply chain has drawn considerable attention in
+recent years, and several researchers have proposed the integration of blockchain technology as
+an effective solution. This section summarizes key contributions from the existing literature
+related to blockchain-based fake product identification systems.
+Ajay Funde et al. (2022) proposed a blockchain-based framework to identify counterfeit products in the supply chain. Their system records product details using smart contracts and verifies
+authenticity through decentralized access, reducing the reliance on third parties and increasing
+transparency.[1]
+Y. Dabbagh et al. (2022) developed a comprehensive fake product identification system utilizing blockchain and IoT integration. Their work focuses on real-time tracking and verification,
+highlighting the importance of sensor data and immutable ledgers to build trust among stakeholders.[2]
+M. C. Jayaprasanna et al. (2021) presented a blockchain-based product management system
+that traces product origins and transactions. Their model emphasizes product lifecycle tracking
+and helps manufacturers ensure product legitimacy at every distribution stage.[3]
+Shivam Singh et al. (2021) introduced a blockchain solution specifically designed for counterfeit
+detection in the supply chain. Their system focuses on creating unique transaction records that
+can be easily verified by consumers, manufacturers, and regulatory bodies.[4]
+Eka Dyar Wahyuni and Arif Djunaidy (2016) addressed the issue of fake reviews influencing
+product perception by consumers. Although not blockchain-specific, their method of iterative computation provides insights into trust management within digital marketplaces, which
+complements the idea of secure, verifiable product data.[5]
+N. Agrawal et al. (2022) proposed a blockchain-based detection system capable of flagging counterfeit products during supply chain transitions. Their work combines smart contracts
+with QR code scanning, ensuring authenticity validation at the point of sale.[6]
+Shastri C. Srikrishna (2022) demonstrated a blockchain framework that supports decentralized
+verification of product authenticity. Their research highlights how product ownership history
+and digital signatures enhance traceability and prevent tampering.[7]
+Overall, the reviewed literature confirms that blockchain technology, when integrated with
+IoT, QR codes, and smart contracts, presents a robust solution for detecting and preventing
+counterfeit products. The systems proposed in these studies provide real-time transparency,
+ensure secure transactions, and empower consumers with verification tools.
+
+
+
+# Review of Existing System(s):
+
+Several systems have been proposed and developed to address the issue of counterfeit products,
+leveraging various technologies such as machine learning, blockchain, and traditional verification
+methods. Below is an overview of some of the existing systems that aim to detect and prevent
+counterfeit products in the supply chain:
+
+Fake Review Detection System:
+Eka Dyar Wahyuni and Arif Djunaidy, in their 2016 paper [?], propose a method to detect
+fake reviews in online product reviews. This system uses an iterative computation method to
+identify fraudulent reviews that may mislead consumers into purchasing counterfeit products.
+By analyzing the patterns of product reviews, the system aims to distinguish between authentic
+and fake reviews, thereby providing consumers with reliable feedback about products before
+making purchasing decisions.
+
+Blockchain-Based Management System for Counterfeit Detection:
+In 2021, M. C. Jayaprasanna and others [?] presented a blockchain-based management system
+designed to detect counterfeit products in the supply chain. The system utilizes blockchain’s
+decentralized and immutable nature to ensure transparency and traceability of products. By
+recording every transaction from the manufacturing stage to the point of sale, the system
+enables consumers and manufacturers to track the authenticity of products and identify any
+counterfeit goods in the supply chain. The use of smart contracts further automates the verification process, ensuring a more secure and reliable method of authentication.
+
+
+
+# Limitations of Existing System(s):
+
+While there are several systems that aim to tackle the problem of counterfeit products, many
+of them have certain limitations that reduce their effectiveness. These limitations can range
+from technological constraints to practical challenges in implementation. Below are some of
+the key limitations identified in existing systems:
+
+Dependence on Centralized Databases:
+    Most existing systems, especially those that rely on databases for tracking products, are often
+centralized. A centralized database introduces a single point of failure, which can be vulnerable to hacking, data corruption, and unauthorized changes. Without decentralization, these
+systems lack the trust and security features provided by technologies like blockchain.
+
+Lack of User Engagement and Accessibility:
+Some systems, especially those relying on complex authentication methods or specialized hardware, fail to engage a broad range of users. In many cases, consumers are either unaware of
+these systems or find them difficult to use. The accessibility of the system, whether through
+web interfaces or mobile apps, is crucial for ensuring widespread adoption, but many current
+systems fall short in terms of user-friendliness.
+

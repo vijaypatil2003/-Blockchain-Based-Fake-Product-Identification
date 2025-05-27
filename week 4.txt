@@ -1,0 +1,62 @@
+# PROPOSED SYSTEM
+
+Working of System
+The proposed system aims to leverage blockchain technology for the authentication of products, ensuring that consumers can easily verify the originality of a product through a secure
+and transparent process. The system involves two primary users: the Manufacturer and the
+Consumer, each performing distinct actions to ensure product authenticity. Below is a detailed
+explanation of how the system works:
+1. Product Addition by Manufacturer
+The manufacturer’s role in the system is pivotal to ensure the data is securely recorded and
+verified on the blockchain. The manufacturer adds detailed information about the product into
+the system, which is then processed and recorded on the blockchain.
+• Step 1: Add Product Details
+The manufacturer provides essential details about the product that will help in its identification and verification. These details include:
+– Manufacturer ID: A unique identifier assigned to each manufacturer for distinguishing their products from others in the market.
+– Product Serial Number (SN): A unique serial number assigned to each individual
+product to differentiate it from other products of the same type.
+– Product Price: The price at which the product is being sold in the market.
+– Product Name: The name of the product, which typically includes the product’s
+title or model.
+– Product Brand: The brand under which the product is manufactured, which helps
+in identifying the source and quality of the product.
+These details are entered into the system by the manufacturer.
+• Step 2: Generate QR Code
+After the manufacturer enters the product details, a unique QR code is generated. This
+QR code is tied to the blockchain record associated with that particular product. The QR code contains a reference that links to the product’s blockchain entry. This QR code
+is then printed on the product packaging or attached to the product itself.
+• Step 3: Record on Blockchain
+Once the product details are entered and the QR code is generated, the system records
+the product’s information on the blockchain. Blockchain ensures the data’s immutability, meaning that once entered, the data cannot be altered or tampered with. The use
+of smart contracts allows the system to automatically manage and validate each product’s information as it gets added to the blockchain, ensuring complete transparency and
+security.
+By using blockchain, manufacturers can guarantee that the product details stored are reliable and cannot be forged or altered, providing a transparent and tamper-proof record of the
+product’s authenticity.
+
+
+2. Verification by Consumer
+The consumer’s role is to verify the authenticity of the product before making a purchase or
+after receiving the product. The process involves scanning the QR code on the product and
+checking its details against the information stored on the blockchain.
+• Step 1: Scan QR Code
+The consumer uses a mobile app or any other compatible verification platform to scan the
+QR code on the product. The QR code acts as a key to access the product’s information
+stored securely on the blockchain.
+• Step 2: System Query
+Once the QR code is scanned, the consumer’s device sends a request to the system. The
+system queries the blockchain to check the product’s information based on the product
+serial number (SN) and other details. The query checks whether the product exists in
+the blockchain database and whether the data matches the original record entered by the
+manufacturer.
+• Step 3: Result Displayed
+After verifying the product’s data on the blockchain, the system displays the result to
+the consumer. The result will indicate one of the following:
+– Product is Real: If the serial number and other details match the information stored
+on the blockchain, the system confirms that the product is genuine. The consumer is
+assured that the product is authentic and has passed through the legitimate supply
+chain.
+– Product is Fake: If the system finds discrepancies or if the product’s serial number
+does not match any record on the blockchain, the product is flagged as counterfeit.
+The consumer is alerted, and further actions can be taken to report the counterfeit
+product.
+The result can be shown on the consumer’s mobile device or any other platform they are
+using to scan the product’s QR code
