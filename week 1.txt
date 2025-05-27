@@ -1,0 +1,24 @@
+# INTRODUCTION
+
+The ever-increasing consumer preference for branded and premium products has, unfortunately,
+given rise to a parallel and troubling surge in unethical practices such as product counterfeiting
+and duplication. These unlawful activities have grown into a critical challenge for businesses
+across sectors, causing extensive damage that goes far beyond simple financial implications.
+Counterfeit products erode the goodwill and credibility that companies have spent years —
+sometimes decades — building with their customers. The presence of fake goods in the market
+significantly diminishes consumer trust, making customers question the authenticity of the
+brand, often resulting in lost loyalty and long-term revenue decline.
+
+Moreover, the circulation of duplicate products has severe economic consequences for legitimate companies. When inferior-quality imitations enter the market disguised as authentic
+items, not only do they cannibalize market share, but they also mislead and endanger consumers. Buyers, unaware of the counterfeit nature of these items, often suffer due to the
+substandard quality of materials or performance. This not only puts their health and safety at
+risk but also tarnishes the reputation of the original brand.
+
+Recognizing the severity of this ongoing issue, our project seeks to present a fundamental
+yet effective solution through the application of blockchain technology. The core objective
+of this system is to assist in the detection and tracking of genuine products throughout the
+various stages of the supply chain. This is achieved by integrating a secure and immutable
+blockchain layer that supports verification and transparency from the point of manufacture to
+the final purchase by the customer. By allowing both manufacturers and end-users to confirm
+the legitimacy of a product at each stage of its journey, the system aims to curb the impact of
+counterfeit infiltration in the market.
